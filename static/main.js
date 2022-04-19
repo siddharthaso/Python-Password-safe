@@ -1,4 +1,4 @@
-//display  modal on click
+ //display  modal on click
  
 const modalWrapper = document.querySelector(".modals-wrapper");
 if (modalWrapper){
